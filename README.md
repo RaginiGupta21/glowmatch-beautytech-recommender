@@ -1,4 +1,4 @@
-# GlowMatch — Hybrid BeautyTech Recommendation System
+# GlowMatch - Hybrid BeautyTech Recommendation System
 
 A hybrid recommendation engine for skincare/beauty products, built for a
 GenAI Internship technical assignment. Combines **Content-Based Filtering**
@@ -18,7 +18,7 @@ loading/cleaning, content-based filtering, semantic vector search,
 rule-based personalization, popularity fallback, a mini-RAG explanation
 generator, an evaluation suite, a Streamlit demo UI, and a FastAPI REST
 layer. **Cart, checkout, and payment processing are explicitly out of
-scope** — this is a recommendation engine, not a full storefront. See
+scope** - this is a recommendation engine, not a full storefront. See
 `DOCUMENTATION.md` (Section 2) for details.
 
 ---
@@ -77,7 +77,7 @@ python evaluate.py
 
 ## Evaluation
 
-`src/evaluate.py` reports six proxy metrics — deliberately not called
+`src/evaluate.py` reports six proxy metrics - deliberately not called
 "accuracy," since there's no user-preference ground truth to compare
 against (see `DOCUMENTATION.md`, Section 12):
 
@@ -97,7 +97,7 @@ checks) are in `TEST_CASES.md`.
 ## One-paragraph summary
 
 "I built a hybrid BeautyTech recommender that works without any user
-purchase history — the realistic starting point for most early-stage
+purchase history - the realistic starting point for most early-stage
 beauty platforms. It combines TF-IDF content-based filtering over
 ingredient lists, semantic vector search using LSA embeddings indexed
 with nearest-neighbor search (the same retrieval pattern a production
