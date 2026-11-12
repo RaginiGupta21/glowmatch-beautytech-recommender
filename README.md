@@ -15,7 +15,7 @@ categories, full ingredient lists, 5 skin-type suitability flags.
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smart-retail-analytic.streamlit.app/)
 
-**Live demo: [smart-retail-analytic.streamlit.app](https://smart-retail-analytic.streamlit.app/)**
+**Live demo: [glowmatch-beautytech-recommender.streamlit.app](https://glowmatch-beautytech-recommender.streamlit.app/)**
 
 > Runs on Streamlit Community Cloud. Free apps sleep after inactivity, so if you see a "wake up" button, click it and wait a few seconds.
 
