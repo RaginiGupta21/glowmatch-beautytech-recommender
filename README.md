@@ -11,6 +11,16 @@ generator** (retrieves shared ingredients, then generates a grounded
 Built on a real 1,472-product Sephora-sourced catalog: 116 brands, 6
 categories, full ingredient lists, 5 skin-type suitability flags.
 
+## Live Demo 
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smart-retail-analytic.streamlit.app/)
+
+**Live demo: [smart-retail-analytic.streamlit.app](https://smart-retail-analytic.streamlit.app/)**
+
+> Runs on Streamlit Community Cloud. Free apps sleep after inactivity, so if you see a "wake up" button, click it and wait a few seconds.
+
+---
+
 ## Scope
 
 This project delivers the **recommendation pipeline end-to-end**: data
