@@ -1,4 +1,4 @@
-# ✨ GlowMatch — Hybrid BeautyTech Recommendation System
+# GlowMatch — Hybrid BeautyTech Recommendation System
 
 A hybrid recommendation engine for skincare/beauty products, built for a
 GenAI Internship technical assignment. Combines **Content-Based Filtering**
