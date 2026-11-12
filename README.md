@@ -11,7 +11,7 @@ generator** (retrieves shared ingredients, then generates a grounded
 Built on a real 1,472-product Sephora-sourced catalog: 116 brands, 6
 categories, full ingredient lists, 5 skin-type suitability flags.
 
-## 🎯 Scope
+## Scope
 
 This project delivers the **recommendation pipeline end-to-end**: data
 loading/cleaning, content-based filtering, semantic vector search,
@@ -23,7 +23,7 @@ scope** — this is a recommendation engine, not a full storefront. See
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 glowmatch/
@@ -40,7 +40,7 @@ glowmatch/
     └── api.py                    # FastAPI REST service (for other programs/apps)
 ```
 
-## ▶️ How to Run
+##  How to Run
 
 ### Option A — the Streamlit UI (for a human demo)
 ```bash
@@ -75,7 +75,7 @@ python recommender.py
 python evaluate.py
 ```
 
-## 📊 Evaluation
+## Evaluation
 
 `src/evaluate.py` reports six proxy metrics — deliberately not called
 "accuracy," since there's no user-preference ground truth to compare
@@ -94,7 +94,7 @@ Full methodology and how to interpret each number honestly is in
 budget-limit checks, invalid-input handling, and recommendation-count
 checks) are in `TEST_CASES.md`.
 
-## 🧠 One-paragraph summary
+## One-paragraph summary
 
 "I built a hybrid BeautyTech recommender that works without any user
 purchase history — the realistic starting point for most early-stage
