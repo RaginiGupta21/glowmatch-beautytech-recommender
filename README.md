@@ -13,7 +13,7 @@ categories, full ingredient lists, 5 skin-type suitability flags.
 
 ## Live Demo 
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smart-retail-analytic.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://glowmatch-beautytech-recommender.streamlit.app/)
 
 **Live demo: [glowmatch-beautytech-recommender.streamlit.app](https://glowmatch-beautytech-recommender.streamlit.app/)**
 
